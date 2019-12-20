@@ -1,7 +1,8 @@
 # ➡️ [bookmark.youngbeom.com](bookmark.youngbeom.com) - youngbeom的网址导航
 
-本项目是 基于开源的网址导航[webstack.cc](https://github.com/WebStackPage/WebStackPage.github.io) 的 [Jekyll](https://jekyllrb.com/) 版。
-
-> 这是一个纯静态的网址导航网站，内容均由 [viggo](http://viggoz.com/) 收集并整理。项目基于bootstrap前端框架开发。
+当前的网站是[youngbeom](https://youngbeom.com)基于Viggo开源的[webstack.cc](https://github.com/WebStackPage/WebStackPage.github.io) 的 [Jekyll](https://jekyllrb.com/) 版进行重新设计开发,  
+目的是为了解决Chrome里书签的整理和展示需求,  
+书签内容多为平时浏览积累或满足工作需求之用.  
+如果您有更多优质的网站也欢迎推荐~
 
 ![](https://webstack.0xl2oot.cn/assets/images/preview.gif)
