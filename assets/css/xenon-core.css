@@ -742,7 +742,7 @@ footer.main-footer .footer-inner:after,
 }
 
 body {
-    background-color: #f9f9f9;
+    background-color: #000000;
 }
 
 a {
@@ -971,7 +971,7 @@ body {
 }
 
 .sidebar-menu .main-menu a {
-    color: #979898;
+    color: #ffffff;
     text-decoration: none;
     display: block;
     padding: 13px 5px;
@@ -8961,7 +8961,7 @@ a.text-yellow:hover {
 }
 
 .text-gray {
-    color: #555
+    color: #ffffff
 }
 
 a.text-gray:hover {
