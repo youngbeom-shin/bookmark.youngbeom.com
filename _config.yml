@@ -27,7 +27,7 @@ url: "http://bookmark.youngbeom.com" # the base hostname & protocol for your sit
 email: youngbeomshin@gmail.com
 
 # Build settings
-theme: jekyll-theme-midnight
+theme: 
 plugins:
   - jekyll-feed
 
