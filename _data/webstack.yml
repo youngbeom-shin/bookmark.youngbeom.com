@@ -44,8 +44,7 @@
     - title: Google
       logo: /assets/images/logos/google.png
       url: https://www.google.com/
-      description: 全球最大的UI学习分享平台
-    
+      description: 全球最大的UI学习分享平台 
 
 - name: 社区资讯
   icon: linecons-doc
@@ -105,8 +104,7 @@
     - title: 湾区日报
       logo: /assets/images/logos/wanqu.png
       url: https://wanqu.co/
-      description: 关注创业与技术，每天推送5篇优质英文文章  
-    
+      description: 关注创业与技术，每天推送5篇优质英文文章
 
 - name: 灵感采集
   icon: linecons-lightbulb
@@ -216,7 +214,6 @@
           url: https://www.reallygoodux.io/
           description: A library of screenshots and examples of really good UX. Brought to you by
 
-      
 - name: 素材资源
   icon: linecons-thumbs-up
   sub: 
@@ -654,7 +651,6 @@
           url: http://ppt.500d.me/
           logo: /assets/images/logos/500d.png
           description: 中国领先的PPT模板共享平台
-      
 
 - name: 常用工具
   icon: linecons-diamond
@@ -861,7 +857,7 @@
           description: Discover the world's most beautiful places at every opened tab.
 
 
- name: 前端学习
+ - name: 前端学习
   icon: linecons-user
   links: 
     - title: Bootstrap中文网
@@ -998,8 +994,7 @@
       logo: /assets/images/logos/naotofukasawa.png
       description: 设计师深泽直人的工作室         
 
-
- name: 学习教程
+ - name: 学习教程
   icon: linecons-pencil
   sub: 
     - name: 设计规范
@@ -1097,7 +1092,6 @@
           logo: /assets/images/logos/uxren.png
           description: 用户体验人的专业社区
 
-
 - name: ins推荐关注
   icon: linecons-user
   links: 
@@ -1166,7 +1160,6 @@
       logo: /assets/images/logos/naotofukasawa.png
       description: 设计师深泽直人的工作室      
 
-
 - name: UED团队
   icon: linecons-user
   links: 
@@ -1234,7 +1227,6 @@
       url: http://ued.ctrip.com/
       logo: /assets/images/logos/ctrip.png
       description: 携程设计委员会-Ctrip Design Committee
-
 
 - name: 设计工作室
   icon: linecons-user
