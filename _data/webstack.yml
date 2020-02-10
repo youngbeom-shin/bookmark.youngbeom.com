@@ -98,6 +98,14 @@
       logo: /assets/images/logos/uigreat.png
       url: http://www.uigreat.com/
       description: UI设计师学习交流社区
+    - title: Starter Story
+      logo: /assets/images/logos/starter-story.png
+      url: https://www.starterstory.com/
+      description: 学习人们是如何开始他们的商业项目,推荐给尝试创业的朋友们
+    - title: 湾区日报
+      logo: /assets/images/logos/wanqu.png
+      url: https://wanqu.co/
+      description: 关注创业与技术，每天推送5篇优质英文文章  
     
 
 - name: 灵感采集
@@ -864,9 +872,9 @@
       logo: /assets/images/logos/W3school.png
       description: 全球最大的免费中文Web技术教程
     - title: younginnovations
-      url: http://younginnovations.com.np/
-      logo: /assets/images/logos/younginnovations.png
-      description: 一家位于尼泊尔的数字化创意事务所
+      url: https://freessl.cn/
+      logo: /assets/images/logos/freessl.png
+      description: 一个提供免费HTTPS证书申请的网站
     - title: DesignStudio
       url: https://design.studio/
       logo: /assets/images/logos/designstudio.png
@@ -919,7 +927,75 @@
       url: http://naotofukasawa.com/
       logo: /assets/images/logos/naotofukasawa.png
       description: 设计师深泽直人的工作室
-    
+
+name: GitHub项目
+  icon: linecons-user
+  links: 
+    - title: Bootstrap中文网
+      url: https://www.bootcss.com/
+      logo: /assets/images/logos/bootcss.png
+      description: 简洁、直观、强悍的前端开发框架，让web开发更迅速、简单。
+    - title: W3school
+      url: https://www.w3school.com.cn/
+      logo: /assets/images/logos/W3school.png
+      description: 全球最大的免费中文Web技术教程
+    - title: younginnovations
+      url: https://freessl.cn/
+      logo: /assets/images/logos/freessl.png
+      description: 一个提供免费HTTPS证书申请的网站
+    - title: DesignStudio
+      url: https://design.studio/
+      logo: /assets/images/logos/designstudio.png
+      description: 品牌与数字创意事务所
+    - title: miiinus
+      url: https://miiinus.com/
+      logo: /assets/images/logos/miiinus.png
+      description: 位于西安的一家专注品牌、产品及数字体验的工作室
+    - title: outcrowd
+      url: https://outcrowd.io
+      logo: /assets/images/logos/outcrowd.png
+      description: 位于乌克兰的一家专注数字产品的设计团队
+    - title: Dine
+      url: https://dinehq.com/
+      logo: /assets/images/logos/dine.png
+      description: Dine是一个专注品牌识别和数字体验的北京团队
+    - title: danaham
+      url: http://danaham.com/
+      logo: /assets/images/logos/danaham.png
+      description: 位于韩国首尔的一家室内设计公司
+    - title: 09ui
+      url: https://09ui.com/
+      logo: /assets/images/logos/09ui.png
+      description: 原小米设计师创办的设计工作室
+    - title: instrument
+      url: https://www.instrument.com/
+      logo: /assets/images/logos/instrument.png
+      description: 位于纽约和波特兰的品牌、产品、服务创新公司
+    - title: dot
+      url: http://dddstd.com/
+      logo: /assets/images/logos/dot.png
+      description: 原腾讯设计师创办的数字工作室
+    - title: madebysix
+      url: https://www.madebysix.com/
+      logo: /assets/images/logos/madebysix.png
+      description: 总部位于迪拜和伦敦的全球化设计事务所
+    - title: mark&draw
+      url: https://www.markndraw.com/
+      logo: /assets/images/logos/mark&draw.png
+      description: 位于首尔的一家工业设计公司
+    - title: speckdesign
+      url: https://www.speckdesign.com
+      logo: /assets/images/logos/speckdesign.png
+      description: 洛杉矶的一家综合性设计公司
+    - title: paperpillar
+      url: https://paperpillar.com/
+      logo: /assets/images/logos/paperpillar.png
+      description: 印尼雅加达的一家专注用户界面的设计工作室
+    - title: naotofukasawa design
+      url: http://naotofukasawa.com/
+      logo: /assets/images/logos/naotofukasawa.png
+      description: 设计师深泽直人的工作室         
+
 
 - name: 学习教程
   icon: linecons-pencil
@@ -942,11 +1018,6 @@
           url: https://developer.apple.com/ios/human-interface-guidelines
           logo: /assets/images/logos/human_interface_guidelines.png
           description: Human Interface Guidelines iOS
-        - title: Photoshop Etiquette
-          url: http://viggoz.com/photoshopetiquette/
-          logo: /assets/images/logos/photoshopetiquette.png
-          description: PS礼仪-WEB设计指南
-
       
     - name: 视频教程
       links:
@@ -1025,6 +1096,74 @@
           description: 用户体验人的专业社区
 
 
+name: ins推荐关注
+  icon: linecons-user
+  links: 
+    - title: Bootstrap中文网
+      url: https://www.bootcss.com/
+      logo: /assets/images/logos/bootcss.png
+      description: 简洁、直观、强悍的前端开发框架，让web开发更迅速、简单。
+    - title: W3school
+      url: https://www.w3school.com.cn/
+      logo: /assets/images/logos/W3school.png
+      description: 全球最大的免费中文Web技术教程
+    - title: younginnovations
+      url: https://freessl.cn/
+      logo: /assets/images/logos/freessl.png
+      description: 一个提供免费HTTPS证书申请的网站
+    - title: DesignStudio
+      url: https://design.studio/
+      logo: /assets/images/logos/designstudio.png
+      description: 品牌与数字创意事务所
+    - title: miiinus
+      url: https://miiinus.com/
+      logo: /assets/images/logos/miiinus.png
+      description: 位于西安的一家专注品牌、产品及数字体验的工作室
+    - title: outcrowd
+      url: https://outcrowd.io
+      logo: /assets/images/logos/outcrowd.png
+      description: 位于乌克兰的一家专注数字产品的设计团队
+    - title: Dine
+      url: https://dinehq.com/
+      logo: /assets/images/logos/dine.png
+      description: Dine是一个专注品牌识别和数字体验的北京团队
+    - title: danaham
+      url: http://danaham.com/
+      logo: /assets/images/logos/danaham.png
+      description: 位于韩国首尔的一家室内设计公司
+    - title: 09ui
+      url: https://09ui.com/
+      logo: /assets/images/logos/09ui.png
+      description: 原小米设计师创办的设计工作室
+    - title: instrument
+      url: https://www.instrument.com/
+      logo: /assets/images/logos/instrument.png
+      description: 位于纽约和波特兰的品牌、产品、服务创新公司
+    - title: dot
+      url: http://dddstd.com/
+      logo: /assets/images/logos/dot.png
+      description: 原腾讯设计师创办的数字工作室
+    - title: madebysix
+      url: https://www.madebysix.com/
+      logo: /assets/images/logos/madebysix.png
+      description: 总部位于迪拜和伦敦的全球化设计事务所
+    - title: mark&draw
+      url: https://www.markndraw.com/
+      logo: /assets/images/logos/mark&draw.png
+      description: 位于首尔的一家工业设计公司
+    - title: speckdesign
+      url: https://www.speckdesign.com
+      logo: /assets/images/logos/speckdesign.png
+      description: 洛杉矶的一家综合性设计公司
+    - title: paperpillar
+      url: https://paperpillar.com/
+      logo: /assets/images/logos/paperpillar.png
+      description: 印尼雅加达的一家专注用户界面的设计工作室
+    - title: naotofukasawa design
+      url: http://naotofukasawa.com/
+      logo: /assets/images/logos/naotofukasawa.png
+      description: 设计师深泽直人的工作室      
+
 
 - name: UED团队
   icon: linecons-user
@@ -1093,7 +1232,6 @@
       url: http://ued.ctrip.com/
       logo: /assets/images/logos/ctrip.png
       description: 携程设计委员会-Ctrip Design Committee
-    
 
 
 - name: 设计工作室
