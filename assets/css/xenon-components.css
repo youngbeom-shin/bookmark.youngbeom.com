@@ -6406,7 +6406,7 @@ button.toast-close-button {
 .xe-widget.xe-conversations {
     position: relative;
     background: #ebebeb;
-    margin-bottom: 0px;
+    margin-bottom: 12px;
     padding: 15px;
     box-shadow: 9px 9px 17px #d4d4d4, -9px -9px 17px #ffffff
 }
@@ -6512,7 +6512,7 @@ button.toast-close-button {
 }
 
 .xe-widget.xe-conversations .xe-body .xe-comment-entry .xe-comment .xe-user-name:hover strong {
-    color: #7d7f7f
+    color: #ffffff
 }
 
 .xe-widget.xe-conversations .xe-body .xe-comment-entry .xe-comment p {
