@@ -6240,7 +6240,7 @@
     text-align: center;
     text-decoration: none;
     background-color: #000;
-    border-radius: 0;
+    border-radius: 8px;
   }
   
   .tooltip-arrow {
