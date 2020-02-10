@@ -860,7 +860,8 @@
           logo: /assets/images/logos/mustsee.png
           description: Discover the world's most beautiful places at every opened tab.
 
-- name: 前端学习
+
+ name: 前端学习
   icon: linecons-user
   links: 
     - title: Bootstrap中文网
@@ -928,7 +929,8 @@
       logo: /assets/images/logos/naotofukasawa.png
       description: 设计师深泽直人的工作室
 
-name: GitHub项目
+
+- name: GitHub项目
   icon: linecons-user
   links: 
     - title: Bootstrap中文网
@@ -997,7 +999,7 @@ name: GitHub项目
       description: 设计师深泽直人的工作室         
 
 
-- name: 学习教程
+ name: 学习教程
   icon: linecons-pencil
   sub: 
     - name: 设计规范
@@ -1096,7 +1098,7 @@ name: GitHub项目
           description: 用户体验人的专业社区
 
 
-name: ins推荐关注
+- name: ins推荐关注
   icon: linecons-user
   links: 
     - title: Bootstrap中文网
