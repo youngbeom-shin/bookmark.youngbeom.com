@@ -5,4 +5,4 @@
 书签内容多为平时浏览积累或满足工作需求之用.  
 如果您有更多优质的网站也欢迎推荐~
 
-![](http://oss.youngbeom.com/nav.youngbeom.com/preview.gif)
+![](https://oss.youngbeom.com/nav.youngbeom.com/preview.gif)
