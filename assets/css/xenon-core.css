@@ -2233,7 +2233,9 @@ footer.main-footer .go-up {
 footer.main-footer .go-up a {
     display: inline-block;
     background-color: rgba(44, 46, 47, .05);
-    padding: 2px 5px
+    padding: 2px 5px;
+    box-shadow: 2px 2px 5px #323436, -2px -2px 5px #44464a;
+    border-radius: 4px;
 }
 
 footer.main-footer .go-up a:hover {
@@ -2241,7 +2243,7 @@ footer.main-footer .go-up a:hover {
 }
 
 footer.main-footer.footer-type-2 {
-    background-color: #252729;
+    background-color: #3B3D40;
     border-top: 0;
     color: #fff
 }

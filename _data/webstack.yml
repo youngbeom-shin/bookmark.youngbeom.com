@@ -109,10 +109,6 @@
           logo: /assets/images/logos/producthunt.png
           url: https://www.producthunt.com/
           description: 发现新鲜有趣的产品
-        - title: NEXT
-          logo: /assets/images/logos/NEXT.png
-          url: https://next.36kr.com/posts
-          description: 不错过任何一个新产品
         - title: 少数派
           logo: /assets/images/logos/sspai.png
           url: https://sspai.com/
@@ -874,10 +870,6 @@
           url: https://developer.apple.com/ios/human-interface-guidelines
           logo: /assets/images/logos/human_interface_guidelines.png
           description: Human Interface Guidelines iOS
-        - title: Photoshop Etiquette
-          url: http://viggoz.com/photoshopetiquette/
-          logo: /assets/images/logos/photoshopetiquette.png
-          description: PS礼仪-WEB设计指南
 
       
     - name: 视频教程
