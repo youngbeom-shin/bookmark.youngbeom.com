@@ -144,6 +144,10 @@
           logo: /assets/images/logos/AndroidNiceties.png
           url: https://androidniceties.tumblr.com/
           description: A collection of screenshots encompassing some of the most beautiful looking Android apps.
+        - title: calltoidea
+          logo: /assets/images/logos/calltoidea.png
+          url: https://www.calltoidea.com/
+          description: Light up your imagination!
       
     - name: 网页灵感
       links:
@@ -477,6 +481,10 @@
           url: http://www.abstractfonts.com/
           logo: /assets/images/logos/abstractfonts.png
           description: Abstract Fonts (13,866 free fonts)
+        - title: Naver韩文字体库
+          url: https://software.naver.com/software/fontList.nhn?categoryId=I0000000
+          logo: /assets/images/logos/Naver-fonts.png
+          description: 最全的韩文字体下载网址
       
     - name: Mockup
       links:
@@ -595,10 +603,6 @@
           url: https://mmtstock.com/
           logo: /assets/images/logos/mmtstock.png
           description: Free photos for commercial use
-        - title: skitterphoto
-          url: https://skitterphoto.com/
-          logo: /assets/images/logos/skitterphoto.png
-          description: a place to find, show and share public domain photos
         - title: magdeleine
           url: https://magdeleine.co/browse/
           logo: /assets/images/logos/magdeleine.png
@@ -680,6 +684,10 @@
       
     - name: 界面设计
       links:
+        - title: figma
+          url: https://www.figma.com/
+          logo: /assets/images/logos/figma.png
+          description: Design, prototype, and gather feedback all in one place with Figma.
         - title: Sketch
           url: https://sketchapp.com/
           logo: /assets/images/logos/sketchapp.png
@@ -700,10 +708,6 @@
           url: https://creative.adobe.com/zh-cn/products/download/muse
           logo: /assets/images/logos/MuseCC.png
           description: 无需利用编码即可进行网站设计。
-        - title: figma
-          url: https://www.figma.com/
-          logo: /assets/images/logos/figma.png
-          description: Design, prototype, and gather feedback all in one place with Figma.
     - name: 交互动效
       links:
         - title: Adobe After Effects CC
@@ -820,6 +824,26 @@
           url: https://www.gaoding.com
           logo: /assets/images/logos/gaoding.png
           description: 免费在线抠图软件,图片快速换背景-抠白底图
+        - title: 万能格式转换工具
+          url: https://cloudconvert.com/
+          logo: /assets/images/logos/cloudconvert.png
+          description: 支持字体、照片、视频、音频等格式转换 
+        - title: PDF解密
+          url: https://smallpdf.com/cn/unlock-pdf
+          logo: /assets/images/logos/smallpdf.png
+          description: 易于使用的PDF密码移除工具 
+        - title: photomosh
+          url: https://photomosh.com/
+          logo: /assets/images/logos/photomosh.png
+          description: 在线生成故障艺术风格的照片
+        - title: soogif
+          url: https://www.soogif.com/compress
+          logo: /assets/images/logos/soogif.png
+          description: GIF图编辑助手,GIF转换、压缩、裁剪、拼接合成.
+        - title: Speed-Line
+          url: https://wangyasai.github.io/Speed-Line/
+          logo: /assets/images/logos/Speed-Line.png
+          description: 快速生成漫画风格的速度线 
         
     - name: Chrome插件
       links:
@@ -847,6 +871,18 @@
           url: http://mustsee.earth/
           logo: /assets/images/logos/mustsee.png
           description: Discover the world's most beautiful places at every opened tab.
+        - title: bilibili下载助手
+          url: https://chrome.google.com/webstore/detail/bilibili%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E4%B8%8B%E8%BD%BD%E5%8A%A9%E6%89%8B/bfcbfobhcjbkilcbehlnlchiinokiijp
+          logo: /assets/images/logos/bilibili.png
+          description: 下载你能看到的B站视频和音频.
+        - title: Merge Windows
+          url: https://chrome.google.com/webstore/detail/merge-windows/mmpokgfcmbkfdeibafoafkiijdbfblfg
+          logo: /assets/images/logos/Merge-Windows.png
+          description: 合并Chrome浏览器中所有打开的窗口.  
+        - title: Muzli
+          url: https://muz.li/
+          logo: /assets/images/logos/Muzli.png
+          description: 为设计师提供创意灵感   
 
 
 - name: 学习教程
@@ -882,10 +918,6 @@
           url: http://doyoudo.com/
           logo: /assets/images/logos/doyoudo.png
           description: 创意设计软件学习平台
-        - title: 没位道
-          url: http://www.c945.com/web-ui-tutorial/
-          logo: /assets/images/logos/web_ui_tutorial.png
-          description: WEB UI免费视频公开课
         - title: 慕课网
           url: https://www.imooc.com/
           logo: /assets/images/logos/imooc.png
@@ -1019,8 +1051,97 @@
       description: 携程设计委员会-Ctrip Design Committee
     
 
+- name: 设计师
+  icon: 
+  links: 
+    - title: Viggo
+      url: http://viggoz.com/
+      logo: /assets/images/logos/Viggo.png
+      description: 这个网址导航项目的开源作者
+    - title: joost
+      url: https://www.joost.co/
+      logo: /assets/images/logos/joost.png
+      description: uber的产品设计师
+    - title: juuun
+      url: https://juuun.io/
+      logo: /assets/images/logos/juuun.png
+      description: 做过设计、前端的产品经理,Figma中文网的运营者
+    - title: luka
+      url: https://lastone.art/
+      logo: /assets/images/logos/luka.png
+      description: 现居重庆的鹅厂设计师,分享日常设计
+    - title: melodycao
+      url: https://melodycao.com/
+      logo: /assets/images/logos/melodycao.png
+      description: Melody 现居旧金山的产品设计师
+    - title: philippehong
+      url: http://philippehong.com/
+      logo: /assets/images/logos/philippehong.png
+      description: Award winning UI/UX Designer based in Sydney
+    - title: ruolan
+      url: http://ruolan.design/
+      logo: /assets/images/logos/ruolan.png
+      description: creator of four chars | product designer、illustrator
+    - title: Lisheng Chang
+      url: https://cseec.com/
+      logo: /assets/images/logos/LishengChang.png
+      description: a UX Designer, a Mobile Photographer, a Human Being.
+    - title: jonyfang
+      url: https://jonyfang.com
+      logo: /assets/images/logos/jonyfang.png
+      description: 独立开发者 设计爱好者
+    - title: johnyvino
+      url: https://johnyvino.com/
+      logo: /assets/images/logos/johnyvino.png
+      description: dribbble粉丝12W的硅谷设计师
+    - title: 金妍希
+      url: http://kimyeonhee.com/
+      logo: /assets/images/logos/kimyeonhee.png
+      description: 3D创意设计师
+    - title: samxia
+      url: http://www.samxia.me/
+      logo: /assets/images/logos/samxia.png
+      description: passionate about Design and Technology
+    - title: chaikunpeng
+      url: https://cargocollective.com/chaikunpeng
+      logo: /assets/images/logos/chaikunpeng.png
+      description: ABCD 平面设计师
+    - title: speckdesign
+      url: https://www.speckdesign.com
+      logo: /assets/images/logos/speckdesign.png
+      description: 洛杉矶的一家综合性设计公司
+    - title: Jesslyn 
+      url: https://www.jesslynsutisna.com/
+      logo: /assets/images/logos/Jesslyn.png
+      description: RSID工业设计专业,在Kate Spade从事时装设计
+    - title: 李大毛
+      url: https://www.darmau.com/
+      logo: /assets/images/logos/darmau.png
+      description: 城中村群租房
+    - title: Daehyun Kim
+      url: http://www.moonassi.com/
+      logo: /assets/images/logos/Daehyun-Kim.png
+      description: 韩国艺术家Daehyun Kim,创作的作品深邃且令人深思
+    - title: 可乐橙
+      url: http://colachan.com/
+      logo: /assets/images/logos/colachan.png
+      description: UI/UX设计师 喜欢素净朴实的东西，现居杭州
+    - title: canisminor
+      url: https://canisminor.cc/hola
+      logo: /assets/images/logos/canisminor.png
+      description: 支付宝UED全站设计师 坐标杭州
+    - title: Gil
+      url: http://www.gilhuybrecht.com/
+      logo: /assets/images/logos/Gil.png
+      description: designer,teacher and skateboarder.
+    - title: Alan
+      url: https://www.lyzhie.com/
+      logo: /assets/images/logos/Alan.png
+      description: Product Designer with a background in Design and Code.
 
-- name: 设计工作室
+
+
+- name: 工作室
   icon: 
   links: 
     - title: Plus X Creative Partner
