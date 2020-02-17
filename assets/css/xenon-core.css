@@ -2234,7 +2234,7 @@ footer.main-footer .go-up a {
     display: inline-block;
     background-color: rgba(44, 46, 47, .05);
     padding: 2px 5px;
-    box-shadow: 2px 2px 5px #323436, -2px -2px 5px #44464a;
+    box-shadow: 2px 2px 5px #d4d4d4, -2px -2px 5px #ffffff;
     border-radius: 4px;
 }
 
@@ -2253,7 +2253,11 @@ footer.main-footer.footer-type-2 a {
 }
 
 footer.main-footer.footer-type-2 .go-up a {
-    background-color: rgba(255, 255, 255, .05)
+    display: inline-block;`
+    background-color: rgba(44, 46, 47, .05);
+    padding: 2px 5px;
+    box-shadow: 2px 2px 5px #323436, -2px -2px 5px #44464a;
+    border-radius: 4px;
 }
 
 footer.main-footer.footer-type-2 .go-up a:hover {
